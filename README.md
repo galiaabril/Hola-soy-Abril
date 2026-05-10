@@ -10,10 +10,8 @@ Actualmente aprendiendo R, MATLAB, Python y visualización de datos para anális
 ## Sobre mí
 
 - 📚 Estudiante de Finanzas en la Universidad de Colima
-- 📊 Interesada en análisis financiero y análisis de datos
-- ⚖️ Actualmente cursando áreas relacionadas con derecho corporativo y business intelligence
+- ⚖️ Cursando áreas relacionadas con derecho corporativo y análisis de datos
 - 🌱 Aprendiendo herramientas de programación y visualización de datos
-- 📈 Interesada en evaluación de empresas y análisis bursátil 
 
 ---
 
