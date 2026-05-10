@@ -79,6 +79,3 @@ El sistema permite monitorear indicadores financieros y generar recomendaciones 
 
 - Español — Nativo
 - Inglés — B1
-
-📫 Correo: tucorreo@ejemplo.com  
-💼 LinkedIn: Próximamente
